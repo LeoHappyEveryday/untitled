@@ -11,5 +11,6 @@ public class t01 {
         System.out.println("push test");
         System.out.println("test");
         System.out.println("hot-fix test1");
+        System.out.println("push test");
     }
 }
